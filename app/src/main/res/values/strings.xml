@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CDOJ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="over_view">概览</string>
+    <string name="problem">题目</string>
+    <string name="clarification">讨论</string>
+    <string name="status">状态</string>
+    <string name="rank">排名</string>
+    <string name="loading">加载中...</string>
+</resources>
